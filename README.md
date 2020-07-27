@@ -1,4 +1,4 @@
-# Bitcoin-Price-Prediction
+# GRU Model of Prediction
 import numpy as np 
 import math
 import pandas as pd 
